@@ -1,0 +1,9 @@
+c:\users\sony\documents\visual studio 2010\Projects\CodeFirstMigration\CodeFirstMigration\bin\CodeFirstMigration.dll
+c:\users\sony\documents\visual studio 2010\Projects\CodeFirstMigration\CodeFirstMigration\bin\CodeFirstMigration.pdb
+c:\users\sony\documents\visual studio 2010\Projects\CodeFirstMigration\CodeFirstMigration\bin\EntityFramework.xml
+c:\users\sony\documents\visual studio 2010\Projects\CodeFirstMigration\CodeFirstMigration\obj\Debug\ResolveAssemblyReference.cache
+c:\users\sony\documents\visual studio 2010\Projects\CodeFirstMigration\CodeFirstMigration\obj\Debug\CodeFirstMigration.dll
+c:\users\sony\documents\visual studio 2010\Projects\CodeFirstMigration\CodeFirstMigration\obj\Debug\CodeFirstMigration.pdb
+c:\users\sony\documents\visual studio 2010\Projects\CodeFirstMigration\CodeFirstMigration\bin\Core.dll
+c:\users\sony\documents\visual studio 2010\Projects\CodeFirstMigration\CodeFirstMigration\bin\Core.pdb
+C:\Users\Sony\documents\visual studio 2010\Projects\CodeFirstMigration\CodeFirstMigration\bin\System.Data.SqlServerCe.dll

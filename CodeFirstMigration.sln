@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "CodeFirstMigration\Web.csproj", "{A5E2793C-13A7-4027-A543-8C57D5BDB772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{7E25E3C6-0329-4728-BAAB-AFE051742EF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E2793C-13A7-4027-A543-8C57D5BDB772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E2793C-13A7-4027-A543-8C57D5BDB772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E2793C-13A7-4027-A543-8C57D5BDB772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E2793C-13A7-4027-A543-8C57D5BDB772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E25E3C6-0329-4728-BAAB-AFE051742EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E25E3C6-0329-4728-BAAB-AFE051742EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E25E3C6-0329-4728-BAAB-AFE051742EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E25E3C6-0329-4728-BAAB-AFE051742EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

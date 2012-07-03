@@ -1,0 +1,8 @@
+c:\users\sony\documents\visual studio 2010\Projects\CodeFirstMigration\Core\bin\Debug\Core.dll
+c:\users\sony\documents\visual studio 2010\Projects\CodeFirstMigration\Core\bin\Debug\Core.pdb
+c:\users\sony\documents\visual studio 2010\Projects\CodeFirstMigration\Core\obj\Debug\ResolveAssemblyReference.cache
+c:\users\sony\documents\visual studio 2010\Projects\CodeFirstMigration\Core\obj\Debug\Core.dll
+c:\users\sony\documents\visual studio 2010\Projects\CodeFirstMigration\Core\obj\Debug\Core.pdb
+c:\users\sony\documents\visual studio 2010\Projects\CodeFirstMigration\Core\bin\Debug\Core.dll.config
+c:\users\sony\documents\visual studio 2010\Projects\CodeFirstMigration\Core\bin\Debug\EntityFramework.dll
+c:\users\sony\documents\visual studio 2010\Projects\CodeFirstMigration\Core\bin\Debug\EntityFramework.xml
